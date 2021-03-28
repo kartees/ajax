@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Quadro Professional Graphics Card",
+        "prices": ["Rs.28000","Rs.37000" ],
+        "category":["Quadro RTX 8000","Quadro RTX 6000"]
+    },
+    {
+        "name": "NVIDIA DGX Station",
+        "prices": ["Rs.10000","Rs.5000","Rs.6000"],
+        "category":["DGX Station A100","DGX Station F230","DGX Station A200"]
+    }
+]

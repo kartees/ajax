@@ -1,0 +1,12 @@
+[
+    {
+        "name": "GeForce Graphics Cards",
+        "prices": ["Rs.30000","Rs.14000" ],
+        "category":["GeForce RTX 3060","GeForce RTX 3090"]
+    },
+    {
+        "name": "NVIDIA Jetson",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    }
+]
