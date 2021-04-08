@@ -8,5 +8,6 @@
         "name": "NVIDIA Jetson",
         "prices": ["Rs.19000","Rs.5000" ],
         "category":["Nano 2GB","AGX Xavier"]
+        
     }
 ]
