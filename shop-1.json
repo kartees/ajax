@@ -1,0 +1,47 @@
+[
+    {
+        "name": "GeForce Graphics Cards",
+        "prices": ["Rs.30000","Rs.14000" ],
+        "category":["GeForce RTX 3060","GeForce RTX 3090"]
+    },
+    {
+        "name": "NVIDIA Jetson",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "Graphics Jetson Cards",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "NVIDIA Jetson Cards",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "Cards Graphics",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "NVIDIA Cards",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "Graphics Cards",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "Graphics NVIDIA Jetson",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+    {
+        "name": "NVIDIA Jetson Graphics",
+        "prices": ["Rs.19000","Rs.5000" ],
+        "category":["Nano 2GB","AGX Xavier"]
+    },
+]
